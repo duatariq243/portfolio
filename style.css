@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  background: url("images/banner.jpg") center/cover no-repeat;
+  background: url("banner.jpg") center/cover no-repeat;
   color: white;
   text-align: center;
   padding: 100px 20px;
